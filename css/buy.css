@@ -1,0 +1,41 @@
+body{
+		background-image:url(buy.png)
+	}
+.fm {
+		border:1px solid silver;
+		border-radius:15px;
+		width:110%;
+		height:90%;
+		margin-left:400px;
+		margin-top:50px;
+		background-image:url(img/buy.png)
+	}
+#a{
+		padding:15;
+		margin-top:100px;
+		margin-left:10px;
+	 }
+input{
+		padding:15px;
+		margin-top:7px;
+		margin-right:17px;
+		
+		width:90%;
+		border-radius:15px;
+	 }
+input:focus{
+			border:2px solid steelblue;
+			border-radius:15px;
+
+		   }
+button{
+		padding:10px;
+		background-color:steelblue;
+		width:100%;
+		border-radius:15px;
+	  }
+button:hover{
+			border:2px solid blue;
+			border-radius:15px;
+			cursor:pointer;
+			}
